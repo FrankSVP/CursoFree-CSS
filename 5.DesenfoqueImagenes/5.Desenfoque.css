@@ -17,7 +17,7 @@
   }
   
   body {
-    background-image: url(Images/Img-1.png), linear-gradient(rgb(176, 230, 252), rgb(29, 112, 236));
+    background-image: url(Images/Img-1.png), linear-gradient(rgb(176, 230, 252), rgb(29, 112, 236)); //Aquí colocar la imágen seleccionada
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 500px;
